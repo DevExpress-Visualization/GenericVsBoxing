@@ -10,7 +10,7 @@
     <TestType>Generic</TestType>
     <DataType>double</DataType>
     <ItemsCount>1000</ItemsCount>
-    <Milliseconds>0</Milliseconds>
+    <Milliseconds>1</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
@@ -75,38 +75,38 @@
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>double</DataType>
-    <ItemsCount>100000</ItemsCount>
-    <Milliseconds>1</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>double</DataType>
-    <ItemsCount>100000</ItemsCount>
-    <Milliseconds>0</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Boxing</TestType>
-    <DataType>DateTime</DataType>
     <ItemsCount>100000</ItemsCount>
     <Milliseconds>2</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
+    <DataType>double</DataType>
+    <ItemsCount>100000</ItemsCount>
+    <Milliseconds>0</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Boxing</TestType>
+    <DataType>DateTime</DataType>
+    <ItemsCount>100000</ItemsCount>
+    <Milliseconds>6</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>100000</ItemsCount>
     <Milliseconds>2</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
+    <DataType>string</DataType>
+    <ItemsCount>100000</ItemsCount>
+    <Milliseconds>15</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
     <DataType>string</DataType>
     <ItemsCount>100000</ItemsCount>
     <Milliseconds>12</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>string</DataType>
-    <ItemsCount>100000</ItemsCount>
-    <Milliseconds>11</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
@@ -118,138 +118,138 @@
     <TestType>Generic</TestType>
     <DataType>double</DataType>
     <ItemsCount>1000000</ItemsCount>
-    <Milliseconds>9</Milliseconds>
+    <Milliseconds>10</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>1000000</ItemsCount>
-    <Milliseconds>62</Milliseconds>
+    <Milliseconds>64</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>1000000</ItemsCount>
-    <Milliseconds>28</Milliseconds>
+    <Milliseconds>35</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>string</DataType>
     <ItemsCount>1000000</ItemsCount>
+    <Milliseconds>216</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
+    <DataType>string</DataType>
+    <ItemsCount>1000000</ItemsCount>
+    <Milliseconds>198</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Boxing</TestType>
+    <DataType>double</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>976</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
+    <DataType>double</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>101</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Boxing</TestType>
+    <DataType>DateTime</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>1142</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
+    <DataType>DateTime</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>264</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Boxing</TestType>
+    <DataType>string</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>2393</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
+    <DataType>string</DataType>
+    <ItemsCount>10000000</ItemsCount>
+    <Milliseconds>2463</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Boxing</TestType>
+    <DataType>double</DataType>
+    <ItemsCount>20000000</ItemsCount>
+    <Milliseconds>1979</Milliseconds>
+  </GenericVersusBoxingTests>
+  <GenericVersusBoxingTests>
+    <TestType>Generic</TestType>
+    <DataType>double</DataType>
+    <ItemsCount>20000000</ItemsCount>
     <Milliseconds>207</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>string</DataType>
-    <ItemsCount>1000000</ItemsCount>
-    <Milliseconds>199</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Boxing</TestType>
-    <DataType>double</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>934</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>double</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>97</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Boxing</TestType>
-    <DataType>DateTime</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>1098</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>DateTime</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>284</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Boxing</TestType>
-    <DataType>string</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>2349</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>string</DataType>
-    <ItemsCount>10000000</ItemsCount>
-    <Milliseconds>2304</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Boxing</TestType>
-    <DataType>double</DataType>
-    <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>1978</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
-    <TestType>Generic</TestType>
-    <DataType>double</DataType>
-    <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>187</Milliseconds>
-  </GenericVersusBoxingTests>
-  <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>2269</Milliseconds>
+    <Milliseconds>2485</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>525</Milliseconds>
+    <Milliseconds>584</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>string</DataType>
     <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>4836</Milliseconds>
+    <Milliseconds>5371</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>string</DataType>
     <ItemsCount>20000000</ItemsCount>
-    <Milliseconds>4911</Milliseconds>
+    <Milliseconds>5290</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>double</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>2357</Milliseconds>
+    <Milliseconds>2899</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>double</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>284</Milliseconds>
+    <Milliseconds>306</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>3522</Milliseconds>
+    <Milliseconds>3820</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>DateTime</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>793</Milliseconds>
+    <Milliseconds>867</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Boxing</TestType>
     <DataType>string</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>7374</Milliseconds>
+    <Milliseconds>7828</Milliseconds>
   </GenericVersusBoxingTests>
   <GenericVersusBoxingTests>
     <TestType>Generic</TestType>
     <DataType>string</DataType>
     <ItemsCount>30000000</ItemsCount>
-    <Milliseconds>7292</Milliseconds>
+    <Milliseconds>8168</Milliseconds>
   </GenericVersusBoxingTests>
 </DocumentElement>
